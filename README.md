@@ -16,7 +16,7 @@ Simplified explanation: Most languages including C++ have an ISO standards commi
 
 Hence, I would say start with a blank state assuming you do not know any programming beforehand and learn all the new concepts fresh.
 
-Then, what is the ideal way to start programming?
+## Then, what is the ideal way to start programming?
 
 First of all, install and start using a Linux distro like Ubuntu. Get familiar with it and start learning basic commands too.
 
