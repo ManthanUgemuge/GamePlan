@@ -5,7 +5,7 @@ First basic programming (CS50x)
 - an object-oriented language (C++ / Java), 
 - OOP principles (OOAD and Design patterns) 
 - then algorithms. 
-- After doing all of this, web and android app development.
+- After doing all of this, Web and Android App Development.
 
 Most of you would have done some programming in C++ or Java in school during 11th-12th, but the reality is that that programming knowledge is very shallow and outdated. 
 The C++ taught in school is usually taught with Borland or Turbo C++ compiler, which does not even run on modern Windows versions. It is way too outdated and probably confirms to some C++ 90s standards.
