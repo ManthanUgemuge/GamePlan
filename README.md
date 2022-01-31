@@ -2,9 +2,9 @@
 
 A general roadmap in my journey of exploring Computer Science!! Ideally, I would wanna complete it as soon as possible, by 2nd year
 First basic programming (CS50x) 
-- an object-oriented language (`C++ / Java`), 
+- an object-oriented language (C++ / Java), 
 - OOP principles (OOAD and Design patterns) 
-- then algorithms. 
+- Then Algorithms. 
 - After doing all of this, Web and Android App Development.
 
 Most of you would have done some programming in C++ or Java in school during 11th-12th, but the reality is that that programming knowledge is very shallow and outdated. 
