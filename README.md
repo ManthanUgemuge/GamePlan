@@ -10,7 +10,7 @@ First basic programming (CS50x)
 Most of you would have done some programming in C++ or Java in school during 11th-12th, but the reality is that that programming knowledge is very shallow and outdated. 
 The C++ taught in school is usually taught with Borland or Turbo C++ compiler, which does not even run on modern Windows versions. It is way too outdated and probably confirms to some C++ 90s standards.
 
-## Wait, what is a C++ standard?
+## Wait, What is a C++ standard?
 
 Simplified explanation: Most languages including C++ have an ISO standards committee, which regularly adds or removes features for language compilers, as per industrial demands etc.
 
