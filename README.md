@@ -20,7 +20,7 @@ Hence, I would say start with a blank state assuming you do not know any program
 
 First of all, install and start using a Linux distro like Ubuntu. Get familiar with it and start learning basic commands too.
 
-I had answered a similar question earlier: Ravishankar Joshi's answer to What are the online courses (in NPTEL/edX/Udacity) useful for the first semester in BITS Pilani? Hence, copying most of the content from there now.
+I had answered a similar question earlier: Ravishankar Joshi's answer to What are the online courses (in NPTEL/edX/Udacity) useful for the first semester in LPU? Hence, copying most of the content from there now.
 
 I would recommend you to start with Harvard’s CS50x : CS50's Introduction to Computer Science for learning basics of programming if you haven’t already, in school. (It’s good even if you have already learnt to program.) Nowadays the course starts with Python and is a good place to start since Python does not have many complications of C or C++ like data types etc making it a good choice for a beginner.
 
