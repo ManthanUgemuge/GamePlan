@@ -1,4 +1,4 @@
-# GamePlan
+# Game Plan
 
 A general roadmap in my journey of exploring Computer Science!! Ideally, I would wanna complete it as soon as possible, by 2nd year
 First basic programming (CS50x) 
